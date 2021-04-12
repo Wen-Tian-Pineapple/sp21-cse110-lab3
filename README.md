@@ -1,1 +1,1 @@
-# cse110Lab2
+https://wen-tian-pineapple.github.io/cse110Lab2/

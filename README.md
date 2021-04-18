@@ -1,1 +1,1 @@
-https://github.com/Wen-Tian-Pineapple/sp21-cse110-lab3.git
+https://wen-tian-pineapple.github.io/sp21-cse110-lab3/

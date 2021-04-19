@@ -1,8 +1,8 @@
 ---
 name: Custom issue template 
 about: Describe this issue template's purpose here.
-title: 'standup'
-labels: 'question'
+title: 'LAB3'
+labels: 'question,homework,css file'
 assignees: 'wentian'
 
 ---

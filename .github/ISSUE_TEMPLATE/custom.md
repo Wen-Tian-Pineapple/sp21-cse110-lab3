@@ -1,10 +1,14 @@
 ---
 name: Custom issue template
 about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
+title: 'standup'
+labels: 'question'
+assignees: 'wentian'
 
 ---
 
+title: 'color'
+labels: 'css'
+assignees: 'wentian'
 
+---

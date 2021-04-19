@@ -1,9 +1,13 @@
-What did you guys work on yesterday?
+#StandUp Template
 
-What are we working on today?
+## Questions to ask during meeting!
 
-What issues are blocking us?
+1.**What did you guys work on yesterday?**
 
-What are some suggestions that can help us?
+2.**What are we working on today?**
 
-What is the overview of the project requirement?
+3.**What issues are blocking us?**
+
+4.**What are some suggestions that can help us?**
+
+5.**What is the overview of the project requirement?**

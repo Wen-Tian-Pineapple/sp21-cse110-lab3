@@ -1,4 +1,4 @@
-#StandUp Template
+# StandUp Template
 
 ## Questions to ask during meeting!
 
